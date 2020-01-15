@@ -6,4 +6,8 @@ package codramasunion;
  */
 public class nueva {
     
+    public void nueva(){
+        System.out.println("Hi!!");
+    }
+    
 }
